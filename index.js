@@ -84,7 +84,7 @@ async function cleanup(url, options) {
 			return cleanup(amp.href);
 		}
 
-		/* 
+		/*
 			Run enhancements
 			----------------
 		*/
@@ -198,13 +198,16 @@ async function bundle(items, options) {
 		}
 	});
 	const page = await browser.newPage();
-	await page.goto(`file://${temp_file}`, { waitUntil: 'load' });
+	await page.goto(`file://${temp_file}`, {
+		waitUntil: 'load',
+		timeout: 3000000
+	});
 
 	/*
 		When no output path is present,
 		produce the file name from the web page title
-		(if a single page was sent as argument), 
-		or a timestamped file (for the moment) 
+		(if a single page was sent as argument),
+		or a timestamped file (for the moment)
 		in case we're bundling many web pages.
 	 */
 	const output_path =
