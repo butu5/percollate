@@ -1,0 +1,3 @@
+node cli.js pdf --output out/tmp.pdf --css "html { font-size: 20pt } pre, pre>code {font-size: 12pt}" https://docs.spring.io/spring/docs/current/spring-framework-reference/web-reactive.html
+node cli.js pdf --output out/tmp.pdf --css "html { font-size: 16pt }" https://reactjs.org/docs/hello-world.html
+cat in/react-main.txt | xargs node cli.js pdf --output out/tmp.pdf --css "html { font-size: 16pt }"

@@ -39,7 +39,7 @@ h6 {
 a {
 	color: inherit;
 }
-
+/*
 a:not(.no-href):after {
 	content: ' → ' attr(href) '';
 	font-size: 0.8em;
@@ -47,7 +47,7 @@ a:not(.no-href):after {
 	word-wrap: break-word;
 	font-family: var(--alt-font);
 }
-
+*/
 /*
 	Going on a limb here,
 	but a.anchor in heading elements

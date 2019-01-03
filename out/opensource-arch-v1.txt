@@ -1,0 +1,11 @@
+http://aosabook.org/en/distsys.html
+http://aosabook.org/en/mediawiki.html
+http://aosabook.org/en/nginx.html
+http://aosabook.org/en/sqlalchemy.html
+http://aosabook.org/en/zeromq.html
+http://aosabook.org/en/audacity.html
+http://aosabook.org/en/hdfs.html
+http://aosabook.org/en/integration.html
+http://aosabook.org/en/nosql.html
+http://aosabook.org/en/packaging.html
+http://aosabook.org/en/sendmail.html

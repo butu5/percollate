@@ -1,0 +1,9 @@
+https://maven.apache.org/guides/mini/guide-assemblies.html
+https://maven.apache.org/guides/mini/guide-configuring-maven.html
+https://maven.apache.org/guides/mini/guide-manifest.html
+https://maven.apache.org/guides/mini/guide-maven-classloading.html
+https://maven.apache.org/guides/mini/guide-multiple-modules.html
+https://maven.apache.org/guides/mini/guide-multiple-repositories.html
+https://maven.apache.org/guides/mini/guide-building-for-different-environments.html
+https://maven.apache.org/settings.html
+https://maven.apache.org/pom.html

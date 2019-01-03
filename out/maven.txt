@@ -1,0 +1,11 @@
+https://maven.apache.org/guides/getting-started/maven-in-five-minutes.html
+https://maven.apache.org/guides/getting-started/index.html
+https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
+https://maven.apache.org/guides/introduction/introduction-to-the-pom.html
+https://maven.apache.org/guides/introduction/introduction-to-profiles.html
+https://maven.apache.org/guides/introduction/introduction-to-the-standard-directory-layout.html
+https://maven.apache.org/guides/introduction/introduction-to-dependency-mechanism.html
+https://maven.apache.org/guides/introduction/introduction-to-optional-and-excludes-dependencies.html
+https://maven.apache.org/guides/mini/guide-site.html
+https://maven.apache.org/guides/introduction/introduction-to-archetypes.html
+https://maven.apache.org/guides/introduction/introduction-to-repositories.html
