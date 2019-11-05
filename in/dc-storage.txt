@@ -1,0 +1,5 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-s3/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/compute/amazon-ebs/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/amazon-efs/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/storage/aws-storage-gateway/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/migration/aws-snowball/

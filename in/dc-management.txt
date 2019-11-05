@@ -1,0 +1,6 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/amazon-cloudwatch/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-cloudtrail/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-opsworks/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-cloudformation/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-config/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/management-tools/aws-systems-manager/

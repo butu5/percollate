@@ -1,0 +1,7 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-iam/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-accounts/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-directory-service/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-kms/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-cloudhsm/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/amazon-cognito/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/security-identity-compliance/aws-waf-and-shield/

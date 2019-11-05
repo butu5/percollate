@@ -1,0 +1,9 @@
+http://jayendrapatil.com/aws-certification-exam-cheat-sheet/
+http://jayendrapatil.com/aws-certification-security-identity-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-networking-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-compute-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-storage-content-delivery-cheat-sheet/
+http://jayendrapatil.com/aws-certification-database-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-analytics-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-application-services-cheat-sheet/
+http://jayendrapatil.com/aws-certification-management-tools-cheat-sheet/

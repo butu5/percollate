@@ -1,0 +1,9 @@
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/1-introduction
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/2-what-is-cloud-computing
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3-benefits-of-cloud-computing
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3a-compliance
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3b-economies-of-scale
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/3c-capex-vs-opex
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/4-cloud-deployment-models
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/5-types-of-cloud-services
+https://docs.microsoft.com/en-us/learn/modules/principles-cloud-computing/7-summary

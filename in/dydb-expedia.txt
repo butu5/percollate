@@ -1,0 +1,5 @@
+https://medium.com/expedia-group-tech/dynamodb-basics-113f9dba4460
+https://medium.com/expedia-group-tech/dynamodb-why-migrate-to-dynamodb-from-cassandra-f4955be87b19
+https://medium.com/expedia-group-tech/dynamodb-data-modeling-c4b02729ac08
+https://medium.com/expedia-group-tech/dynamodb-guidelines-for-faster-reads-and-writes-3b172b4c2120
+https://medium.com/expedia-group-tech/dynamodb-efficient-indexes-cc30c4997012

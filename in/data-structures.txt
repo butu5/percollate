@@ -1,0 +1,3 @@
+https://www.data-structures-in-practice.com/big-o-notation/
+https://www.data-structures-in-practice.com/arrays/
+https://www.data-structures-in-practice.com/linked-lists/

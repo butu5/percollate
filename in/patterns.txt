@@ -1,0 +1,7 @@
+https://github.com/butu5/java-design-patterns/tree/master/abstract-factory
+https://github.com/butu5/java-design-patterns/tree/master/builder
+https://github.com/butu5/java-design-patterns/tree/master/facade
+https://github.com/butu5/java-design-patterns/tree/master/factory-method
+https://github.com/butu5/java-design-patterns/tree/master/singleton
+https://github.com/butu5/java-design-patterns/tree/master/state
+https://github.com/butu5/java-design-patterns/tree/master/strategy

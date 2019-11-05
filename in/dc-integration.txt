@@ -1,0 +1,7 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-integration/amazon-sns/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-integration/amazon-sqs/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-integration/amazon-swf/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-integration/amazon-mq/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/application-integration/aws-step-functions/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/desktop-app-streaming/amazon-workspaces/
+https://digitalcloud.training/certification-training/aws-certified-cloud-practitioner/additional-aws-services-tools/

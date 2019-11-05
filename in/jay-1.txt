@@ -1,0 +1,11 @@
+http://jayendrapatil.com/aws-lambda/
+http://jayendrapatil.com/aws-lambda-event-source/
+http://jayendrapatil.com/aws-api-gateway/
+http://jayendrapatil.com/aws-elastic-beanstalk/
+http://jayendrapatil.com/aws-elastic-beanstalk-vs-opsworks-vs-cloudformation/
+http://jayendrapatil.com/aws-dynamodb/
+http://jayendrapatil.com/aws-dynamodb-secondary-indexes/
+http://jayendrapatil.com/aws-cloudformation/
+http://jayendrapatil.com/aws-cloudformation-best-practices-certification/
+http://jayendrapatil.com/aws-swf/
+http://jayendrapatil.com/aws-ec2-container-service-ecs/

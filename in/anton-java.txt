@@ -1,0 +1,3 @@
+https://github.com/anton-liauchuk/java-interview/blob/master/core.md
+https://github.com/anton-liauchuk/java-interview/blob/master/collections.md
+https://github.com/anton-liauchuk/java-interview/blob/master/concurrency.md

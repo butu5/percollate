@@ -1,0 +1,4 @@
+https://github.com/butu5/interview-notes/blob/master/java_interview.md
+https://github.com/butu5/interview-notes/blob/master/spring_interview.md
+https://github.com/butu5/interview-notes/blob/master/hibernate_interview.md
+https://github.com/butu5/interview-notes/blob/master/servlet-jsp.md

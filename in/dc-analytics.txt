@@ -1,0 +1,5 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-emr/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-kinesis/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/amazon-athena/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/analytics/aws-glue/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/media-services/amazon-elastic-transcoder/

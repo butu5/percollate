@@ -1,0 +1,6 @@
+https://wilsonmar.github.io/serverless/
+https://wilsonmar.github.io/aws-lambda-serverless/
+https://wilsonmar.github.io/aws-xray/
+https://wilsonmar.github.io/aws-devops/
+https://wilsonmar.github.io/aws-server-deploy-options/
+https://wilsonmar.github.io/aws-iam/

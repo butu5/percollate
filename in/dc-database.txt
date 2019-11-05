@@ -1,0 +1,4 @@
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-rds/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-dynamodb/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-elasticache/
+https://digitalcloud.training/certification-training/aws-solutions-architect-associate/database/amazon-redshift/
